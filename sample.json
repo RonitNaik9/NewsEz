@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Broncos bench Russell Wilson for rest of season to provide offensive 'spark;' QB expects to be cut, per report - CBS Sports",
+            "description": "Sean Payton says the QB's demotion is not a financial decision: 'We're desperately trying to win'",
+            "url": "https://www.cbssports.com/nfl/news/broncos-bench-russell-wilson-for-rest-of-season-to-provide-offensive-spark-qb-expects-to-be-cut-per-report/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/12/27/37ceaa07-d0ee-45fc-94f0-32900eff2aa9/thumbnail/1200x675/b17c995c5f520719ebdc702222aa7753/russell-wilson-g.jpg",
+            "publishedAt": "2023-12-28T02:06:00Z",
+            "content": "The Broncos lost any realistic shot at making the playoffs by falling to the Patriots on Sunday, giving them a 7-8 record -- and just a 1.4% chance of reaching the postseason -- with 2023 winding dow… [+4253 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "NICHOLAS RICCARDI",
+            "title": "Trump ballot ban appealed to US Supreme Court by Colorado Republican Party - The Associated Press",
+            "description": "The Colorado Republican Party is appealing that state supreme court's ruling banning former President Donald Trump from its primary ballot. Jay Sekulow, a lawyer for the party, announced the appeal to the U.S. Supreme Court on his website. Trump himself will …",
+            "url": "https://apnews.com/article/trump-ballot-insurrection-colorado-supreme-court-c51a09d231a5b29475505b0c402a2d89",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d03ed81/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2Fc9%2Fef555d105db675bf100f3007f07c%2Fc1d5a7d98c3346338223696165d6f84b",
+            "publishedAt": "2023-12-28T00:51:00Z",
+            "content": "DENVER (AP) The Colorado Republican Party on Wednesday appealed that states supreme court decision that found former President Donald Trump is ineligible for the presidency, the potential first step … [+4346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGAL Susquehanna Valley Pa."
+            },
+            "author": "Tom Lehman",
+            "title": "Flu, RSV, and COVID-19 still seeing significant community spread - WGAL Susquehanna Valley Pa.",
+            "description": "Numbers from the Department of Health show a general upward trend.",
+            "url": "https://www.wgal.com/article/flu-rsv-and-covid-19-still-seeing-significant-community-spread/46238368",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/graphic-for-joe-1204-658cbac22beef.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-12-28T00:49:00Z",
+            "content": "HARRISBURG, Pa. —'Tis the season for respiratory illnesses.\r\nNumbers from the Pennsylvania Department of Health show a steady trend for new cases or hospitalizations involving COVID-19, RSV, or influ… [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Israel pounds central and southern Gaza after widening its offensive - CBS News",
+            "description": "\"It was a night of hell. We haven't seen such bombing since the start of the war,\" one Gaza resident says.",
+            "url": "https://www.cbsnews.com/news/israel-hamas-war-gaza-deadly-raid-west-bank-refugee-camp-israel-expands-ground-war/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/27/57c420b2-765e-4ea2-80db-1228237343ba/thumbnail/1200x630g8/297b6a9fe3ec41a594433fc9428a25d3/gettyimages-1878794739.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+            "publishedAt": "2023-12-28T00:30:00Z",
+            "content": "Israel launched heavy strikes across central and southern Gaza overnight and into Wednesday after broadening its offensive against Hamas to more areas where the military had told Palestinians to seek… [+5513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
+            },
+            "author": "Amy Rabideau Silvers, Craig Gilbert and Bill Glauber",
+            "title": "Herb Kohl, former U.S. senator and Milwaukee Bucks owner, dies at 88 - Milwaukee Journal Sentinel",
+            "description": "Kohl's leading role in Wisconsin's political, business and sporting culture gave him a unique public profile in this state.",
+            "url": "https://www.jsonline.com/story/news/politics/2023/12/27/herb-kohl-former-u-s-senator-and-milwaukee-bucks-owner-dies-at-88/72043020007/",
+            "urlToImage": "https://www.jsonline.com/gcdn/presto/2023/05/01/PMJS/7165c430-a659-4aea-93b2-c999f7088d85-2000_JUNE_3_GMTI_photoj2000q2m06t05h09293400.jff.jpg?crop=1748,984,x0,y118&width=1748&height=984&format=pjpg&auto=webp",
+            "publishedAt": "2023-12-27T23:43:36Z",
+            "content": "Herb Kohl, the former U.S. senator, Milwaukee Bucks owner and retail shopping magnate, died Wednesday afternoon at the age of 88 after a brief illness.\r\nKohl's death was announced by the Herb Kohl Fo… [+15224 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "FRAZIER MOORE, ANDREW DALTON",
+            "title": "Comedian Tom Smothers, one-half of the Smothers Brothers, dies at 86 - The Associated Press",
+            "description": "Tom Smothers, half of the Smothers Brothers and the co-host of one of the most socially conscious and groundbreaking television shows in the history of the medium, has died at 86. The National Comedy Center, on behalf of his family, said in a statement Wednes…",
+            "url": "https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1f4dc56/2147483647/strip/true/crop/1500x844+0+78/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2Fac%2F3ae2847a9be2b9d8b58236d2b07f%2F4df3379bb4994f899af777ec4b9e9bcb",
+            "publishedAt": "2023-12-27T23:34:00Z",
+            "content": "Tom Smothers, half of the Smothers Brothers and the co-host of one of the most socially conscious and groundbreaking television shows in the history of the medium, has died at 86. \r\nThe National Come… [+9730 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "The Associated Press",
+            "title": "Amazon Prime is putting ads on movies and TV shows starting in late January—and the only way to avoid them is to pay more - Fortune",
+            "description": "It follows other major streamers – such as Netflix and Disney – that have embraced a model of earning ad revenue while also letting subscribers opt out with a higher fee.",
+            "url": "https://fortune.com/2023/12/27/amazon-prime-ads-movies-tv-shows-january/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/12/GettyImages-1477490003-e1703718608742.jpg?resize=1200,600",
+            "publishedAt": "2023-12-27T23:14:00Z",
+            "content": "If you are an Amazon Prime Video user, get ready to see ads on movies and TV shows starting next month.Prime will include ads beginning on Jan. 29, the company said in an email to U.S. members this w… [+836 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Martin Goillandeau, Hilary Clarke",
+            "title": "Jacques Delors, statesman who shaped European Union, dies at 98 - CNN",
+            "description": "Former European Commission President Jacques Delors, a key figure in the creation of the euro currency, has died aged 98 on Wednesday, according to a statement from the Jacques Delors Institute, a think tank he founded.",
+            "url": "https://www.cnn.com/2023/12/27/world/jacques-delors-dead-at-98/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231227155001-01-jacques-delors-file-1994.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-27T23:06:00Z",
+            "content": "Former European Commission President Jacques Delors, a key figure in the creation of the euro currency, has died aged 98 on Wednesday, according to a statement from the Jacques Delors Institute, a th… [+2987 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Duffy, David Goldman",
+            "title": "The New York Times sues OpenAI and Microsoft for copyright infringement - CNN",
+            "description": "The New York Times has sued OpenAI and Microsoft for copyright infringement, alleging that the companies’ artificial intelligence technology illegally copied millions of Times articles to train ChatGPT and other services to provide people with information – t…",
+            "url": "https://www.cnn.com/2023/12/27/tech/new-york-times-sues-openai-microsoft/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244586844-20231227134844692.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-27T23:02:00Z",
+            "content": "The New York Times has sued OpenAI and Microsoft for copyright infringement, alleging that the companies artificial intelligence technology illegally copied millions of Times articles to train ChatGP… [+7352 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "North Korea's Kim orders military to accelerate war preparations -state media - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-orders-military-accelerate-war-preparations-kcna-2023-12-27/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-27T22:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jacob Kastrenakes",
+            "title": "Apple resumes Apple Watch sales after ban is paused - The Verge",
+            "description": "Apple is selling the Apple Watch Series 9 and Apple Watch Ultra 2 again after a federal appeals court temporarily paused the sales and import bans.",
+            "url": "https://www.theverge.com/2023/12/27/24016684/apple-watch-on-sale-again-import-sales-bans-paused",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mtKWrVKqz2YhifD5xo0w7rewny4=/0x0:2040x1360/1200x628/filters:focal(777x707:778x708)/cdn.vox-cdn.com/uploads/chorus_asset/file/24933457/236790_Apple_watch_9_Ultra_2_AKrales_0646.jpg",
+            "publishedAt": "2023-12-27T22:21:20Z",
+            "content": "Apple resumes Apple Watch sales after ban is paused\r\nApple resumes Apple Watch sales after ban is paused\r\n / With the sales and import bans on hold, Apple has resumed sales of the Series 9 and Ultra … [+2249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WSPA 7News"
+            },
+            "author": "Dustin George",
+            "title": "Spartanburg Regional: Only visit emergency room when “absolutely necessary” - WSPA 7News",
+            "description": "Spartanburg Regional Healthcare System said on Wednesday it is encouraging people not to visit hospital campuses unless it is ”absolutely necessary.”",
+            "url": "https://www.wspa.com/news/local-news/spartanburg-regional-only-visit-emergency-room-when-absolutely-necessary/",
+            "urlToImage": "https://www.wspa.com/wp-content/uploads/sites/53/2019/01/Spartanburg20Regional20Healthcare20System_1539296004862.jpg_58708014_ver1.0.jpg?w=1280",
+            "publishedAt": "2023-12-27T21:25:28Z",
+            "content": "SPARTANBURG, S.C. (WSPA) – Spartanburg Regional Healthcare System said on Wednesday it is encouraging people not to visit hospital campuses unless it is ”absolutely necessary.” \r\nThe announcement com… [+1196 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "‘Parasite’ Actor Lee Sun-kyun Dead at Age 48 | E! News - E! News",
+            "description": "The South Korean Police confirms to NBC news that the actor was found dead in a parked car in Seoul on December 27th. Per AP, Lee had been under investigatio...",
+            "url": "https://www.youtube.com/watch?v=x1q7gLc8HV8",
+            "urlToImage": "https://i.ytimg.com/vi/x1q7gLc8HV8/maxresdefault.jpg",
+            "publishedAt": "2023-12-27T21:21:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paradise Afshar, Chris Boyette",
+            "title": "Bodies of missing pregnant teen and boyfriend in Texas may have been found in car with gunshot wounds, police say - CNN",
+            "description": "Two bodies found inside a car, believed to belong to a missing Texas teen who was nine months pregnant and her boyfriend, each had a gunshot wound, police said Wednesday.",
+            "url": "https://www.cnn.com/2023/12/27/us/missing-pregnant-teen-found-dead/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231227083359-01-texas-missing-teen-boyfriend.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-27T21:13:00Z",
+            "content": "Two bodies found inside a car, believed to belong to a missing Texas teen who was nine months pregnant and her boyfriend, each had a gunshot wound, police said Wednesday.\r\nSan Antonio Police Chief Wi… [+1640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "State.gov"
+            },
+            "author": null,
+            "title": "Biden Administration Announces Additional U.S. Military Assistance for Ukraine - United States Department of State - Department of State",
+            "description": "The United States is announcing the year’s final package of weapons and equipment for Ukraine.  Our assistance has been critical to supporting our Ukrainian partners as they defend their country and their freedom against Russia’s aggression. This package prov…",
+            "url": "https://www.state.gov/biden-administration-announces-additional-u-s-military-assistance-for-ukraine-2/",
+            "urlToImage": "https://www.state.gov/wp-content/uploads/2021/02/S_statement_gold_edited.png",
+            "publishedAt": "2023-12-27T20:42:06Z",
+            "content": "The United States is announcing the years final package of weapons and equipment for Ukraine.  Our assistance has been critical to supporting our Ukrainian partners as they defend their country and t… [+692 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "NFL Fantasy 2023 Start 'Em, Sit 'Em: Quarterbacks for Week 17 - NFL.com",
+            "description": "Is Dak Prescott set up to win fantasy championships at home? Why is the QB for one of the league's best offenses headed to the bench? Check out all of Michael F. Florio's QB starts and sits for Week 17 of the NFL fantasy football season.",
+            "url": "https://www.nfl.com/news/nfl-fantasy-2023-start-em-sit-em-quarterbacks-for-week-17",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/x45lcdenak0qe7db9buf",
+            "publishedAt": "2023-12-27T20:33:00Z",
+            "content": "You have lineup questions, we have lineup answers -- at least we hope so. Start 'Em, Sit 'Em is here to help fantasy managers make difficult roster decisions. And you know what is a good move? Starti… [+1167 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mary Walrath-Holdridge",
+            "title": "Gypsy Rose, Mommy Dead and Dearest subject, released from prison - USA TODAY",
+            "description": "The story of Gypsy and her mother Dee Dee became one of the most infamous cases of Munchausen by Proxy in history after it led to a brutal murder.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/12/27/gypsy-rose-blanchard-release-case-timeline/72038395007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2018/11/15/PSPR/10e83bf9-202d-4876-b50e-1eb6d289796b-tGypsy00020.jpg?crop=5509,3099,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-12-27T20:14:11Z",
+            "content": "Warning: A screenshot from a Facebook page contains a derogatory term.\r\nAnother chapter is coming to an end in perhaps one of the most infamous true-crime cases in the past 15 years.\r\nThe case of Cla… [+10348 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Israeli minister Gantz says situation on Lebanon border ‘demands change’ - Al Jazeera English",
+            "description": "Comments from the Israeli war cabinet member are the latest to hint at the possibility of an escalation with Hezbollah.",
+            "url": "https://www.aljazeera.com/news/2023/12/27/israeli-minister-gantz-says-situation-on-lebanon-border-demands-change",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/Kiryat-Shmona-1703691027.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-12-27T20:05:15Z",
+            "content": "Senior Israeli minister Benny Gantz says the situation on the countrys border with Lebanon must change, hinting at the possibility of military escalation with the armed group Hezbollah.\r\nGantz, a mem… [+3244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Escape from Tarkov Arena - Official Beta Accolades Trailer - IGN",
+            "description": "Escape from Tarkov Arena is a standalone arena-based game developed by Battlestate. Players will play a wide variety of PvP and PvE game modes across arenas ...",
+            "url": "https://www.youtube.com/watch?v=0u4L_lJ9Zwo",
+            "urlToImage": "https://i.ytimg.com/vi/0u4L_lJ9Zwo/maxresdefault.jpg",
+            "publishedAt": "2023-12-27T20:00:00Z",
+            "content": null
+        }
+    ]
+}
